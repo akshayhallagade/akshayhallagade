@@ -2,7 +2,7 @@
 ### Hey, My Current Ongoings. 👋
 
 - 🔭 I’m currently working on ...Solving 480 codings questions of Love Babbar.
-- 🌱 I’m currently learning ...Flutter Development (Dart)
+- 🌱 I’m currently learning ...Flutter Development (Dart) and UI/UX Designs.
 - 👯 I’m looking to collaborate on ...Anybody(Just msg me.)
 - 🤔 I’m looking for help with ...(Job or Internship)
 - 💬 Ask me about ...Anything
