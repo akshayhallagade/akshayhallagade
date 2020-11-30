@@ -23,4 +23,33 @@
   
 ![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=likeitaash&show_icons=true&theme=radical)
 
+
+### Contacts
+
+
+<a href="https://twitter.com/akshayhallagade">
+  <img align="left" alt="hemdan | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" draggable="false" />
+</a>
+<a href="https://www.linkedin.com/in/akshayhallagade/">
+  <img align="left" alt="hemdan's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" draggable="false" />
+</a>
+<a href="https://www.facebook.com/hallagade/">
+  <img align="left" alt="hemdan's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" draggable="false" />
+</a>
+<a href="https://www.instagram.com/akshay_hallagade/">
+  <img align="left" alt="hemdan's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" draggable="false" />
+</a>
+<a href="https://github.com/likeitaash">
+  <img align="left" alt="hemdan's github" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111432.svg" draggable="false" />
+</a>
+<a href="https://www.hackerrank.com/akshayhallagade1">
+  <img align="left" alt="hemdan's hackerrank" width="30px" src="https://assets.brandfolder.com/y9ol94wb/v/331198/view@2x.png?v=1591971279" draggable="false" />
+</a>
+<a href="mailto:akshayhallagade2612@gmail.com">
+  <img align="left" alt="hemdan's gmail" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg" draggable="false" />
+</a>
+
+
 </div>
+
+<br />
