@@ -5,27 +5,8 @@
 </p>
 
 ##  Hello, I am Akshay Hallagade <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/wave.gif" width="40px">
-### Hey, My Current Ongoings. 👋
 
-- 🔭 I’m currently working on ...Solving 480 codings questions of Love Babbar.
-- 🌱 I’m currently learning ...Flutter Development (Dart) and UI/UX Designs.
-- 👯 I’m looking to collaborate on ...Python Developer, Flutter Android App Developer or Adobe XD UI/UX designer.
-- 🤔 I’m looking for help with ...(Job or Internship)
-- 💬 Ask me about ...Anything
-- 📫 How to reach me: ...akshayhallagade@gmail.com (email or search on FB or insta)
-- 😄 Pronouns: ...Akshay
-- ⚡ Fun fact: ...Even though continuous hours of sitting before my laptop. I don't have specs. 
-
-
-<br />
-
-<div align="center">
-  
-![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=likeitaash&show_icons=true&theme=radical)
-
-</div>
-
-### Contacts
+### Contact
 
 <br/>
 
@@ -58,3 +39,33 @@
 </div>
 
 <br />
+
+### Hey, My Current Ongoings. 👋
+
+- 🔭 I’m currently working on ...Solving 480 codings questions of Love Babbar.
+- 🌱 I’m currently learning ...Flutter Development (Dart) and UI/UX Designs.
+- 👯 I’m looking to collaborate on ...Python Developer, Flutter Android App Developer or Adobe XD UI/UX designer.
+- 🤔 I’m looking for help with ...(Job or Internship)
+- 💬 Ask me about ...Anything
+- 📫 How to reach me: ...akshayhallagade@gmail.com (email or search on FB or insta)
+- 😄 Pronouns: ...Akshay
+- ⚡ Fun fact: ...Even though continuous hours of sitting before my laptop. I don't have specs. 
+
+
+<br/>
+
+<div align="center">
+  
+![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=likeitaash&show_icons=true&theme=radical)
+
+</div>
+
+### Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="0" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+
+
+
