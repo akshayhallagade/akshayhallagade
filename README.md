@@ -6,8 +6,6 @@
 
 ##  Hello, I am Akshay Hallagade <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/wave.gif" width="40px">
 
-### Contact
-
 <br/>
 
 <div align="center">
@@ -40,13 +38,13 @@
 ### Hey, My Current Ongoings. 👋
 
 - 🔭 I’m currently working on ...Solving 480 codings questions of Love Babbar.
-- 🌱 I’m currently learning ...Flutter Development (Dart) and UI/UX Designs.
-- 👯 I’m looking to collaborate on ...Python Developer, Flutter Android App Developer or Adobe XD UI/UX designer.
-- 🤔 I’m looking for help with ...(Job or Internship)
+- 🌱 I’m currently learning ...Flutter Development (Dart), I/UX Designs and participating in the placement of the College.
+- 👯 I’m looking to collaborate on ...Any one from Python Developer, Flutter Android App Developer or UI/UX designer.
+- 🤔 I’m looking for help with ...(Job or 6 month Internship)
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ...akshayhallagade@gmail.com (email or search on FB or insta)
-- 😄 Pronouns: ...Akshay
-- ⚡ Fun fact: ...Even though continuous hours of sitting before my laptop. I don't have specs. 
+- 📫 How to reach me: ...Contacts Given above. (Click on the logo)
+- 😄 Pronouns: ...Ash (Aksh with K-silent)
+- ⚡ Fun fact: ...Even though continuous hours of sitting before my laptop. I don't have specs.
 
 
 <br/>
