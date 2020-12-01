@@ -64,10 +64,17 @@
 
 <div>
   
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="0" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="30" src="Skills/VSCode.png"></code>
+<code><img height="30" src="Skills/python.png"></code>
+<code><img height="30" src="Skills/flutter.png"></code>
+<code><img height="30" src="Skills/dart.png"></code>
+<code><img height="30" src="Skills/Ruby.png"></code>
+<code><img height="30" src="Skills/C++.png"></code>
+<code><img height="30" src="Skills/XD.png"></code>
+<code><img height="30" src="Skills/Figma.png"></code>
+<code><img height="30" src="Skills/Github desktop.png"></code>
+<code><img height="30" src="Skills/firebase.png"></code>
+<code><img height="30" src="Skills/Proteus.png"></code>
 
 </div>
 
