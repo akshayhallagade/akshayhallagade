@@ -35,6 +35,9 @@
   <img align="left"  width="30px" src="https://www.edigitalagency.com.au/wp-content/uploads/new-instagram-logo-png-transparent-light.png" draggable="false" />
 </a>
 
+<a href="https://dev.to/likeitaash">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Akshay Hallagade's DEV Profile" height="30" width="30">
+</a>
 
 </div>
 
