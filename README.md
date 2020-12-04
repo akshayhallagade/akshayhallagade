@@ -36,7 +36,7 @@
 </a>
 
 <a href="https://dev.to/likeitaash">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Akshay Hallagade's DEV Profile" height="30" width="30">
+  <img align="left" img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Akshay Hallagade's DEV Profile" height="30" width="30">
 </a>
 
 </div>
