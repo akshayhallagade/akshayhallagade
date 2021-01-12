@@ -48,7 +48,7 @@
 - 🔭 I’m currently working on ...Solving 480 codings questions of Love Babbar.
 - 🌱 I’m currently learning ...Flutter Development (Dart), I/UX Designs and participating in the placement of the College.
 - 👯 I’m looking to collaborate on ...Any one from Python Developer, Flutter Android App Developer or UI/UX designer.
-- 🤔 I’m looking for help with ...(Job or 6 month Internship)
+- 🤔 I’m looking for help with ...(Job as Web Developer, Data Science or Android Development with Flutter.)
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...Contacts Given above. (Click on the logo)
 - 😄 Pronouns: ...Ash (Aksh with K-silent)
