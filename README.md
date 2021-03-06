@@ -45,15 +45,14 @@
 
 ### Hey, My Current Ongoings. 👋
 
-- 🔭 I’m currently working on ...Solving 480 codings questions of Love Babbar.
-- 🌱 I’m currently learning ...Flutter Development (Dart), I/UX Designs and participating in the placement of the College.
+- 🔭 I’m currently working on ...My Soft Skills.
+- 🌱 I’m currently learning ...Web dev, Flutter Development (Dart), UI/UX Designing.
 - 👯 I’m looking to collaborate on ...Any one from Python Developer, Flutter Android App Developer or UI/UX designer.
-- 🤔 I’m looking for help with ...(Job as Web Developer, Data Science or Android Development with Flutter.)
+- 🤔 I’m looking for help with ...(Job as a Software Engineering/ Data Science / Android Development with Flutter.)
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...Contacts Given above. (Click on the logo)
 - 😄 Pronouns: ...Ash (Aksh with K-silent)
-- ⚡ Fun fact: ...Even though continuous hours of sitting before my laptop. I don't have specs.
-
+- ⚡ Fun fact: ...I don't have specs, even though continuous hours of sitting before my laptop.
 
 <br/>
 
