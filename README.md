@@ -32,7 +32,7 @@
 </a>
 
 <a href="https://www.instagram.com/akshay_hallagade/">
-  <img align="left"  width="30px" src="https://www.edigitalagency.com.au/wp-content/uploads/new-instagram-logo-png-transparent-light.png" draggable="false" />
+  <img align="left"  width="30px" src="Skills/Proteus.png" draggable="false" />
 </a>
 
 <a href="https://dev.to/likeitaash">
