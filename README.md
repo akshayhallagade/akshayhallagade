@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img src="Skills/main.png" alt="Coder GIF" width="500" height="400">
+  <img src="Skills/main.gif" alt="Coder GIF" width="500" height="400">
   
 </p>
 
