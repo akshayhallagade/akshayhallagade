@@ -66,17 +66,19 @@
 
 <div>
   
-<code><img height="30" src="Skills/VSCode.png"></code>
-<code><img height="30" src="Skills/python.png"></code>
-<code><img height="30" src="Skills/flutter.png"></code>
-<code><img height="30" src="Skills/dart.png"></code>
-<code><img height="30" src="Skills/Ruby.png"></code>
-<code><img height="30" src="Skills/C++.png"></code>
-<code><img height="30" src="Skills/XD.png"></code>
-<code><img height="30" src="Skills/Figma.png"></code>
-<code><img height="30" src="Skills/Github desktop.png"></code>
-<code><img height="30" src="Skills/firebase.png"></code>
-<code><img height="30" src="Skills/Proteus.png"></code>
+  <code><img height="30" src="Skills/python.png"></code>
+  <code><img height="30" src="Skills/html.png"></code>
+  <code><img height="30" src="Skills/css.png"></code>
+  <code><img height="30" src="Skills/bootstrap.png"></code>
+  <code><img height="30" src="Skills/wordpress.jfif"></code>
+  <code><img height="30" src="Skills/VSCode.png"></code>
+  <code><img height="30" src="Skills/flutter.png"></code>
+  <code><img height="30" src="Skills/dart.png"></code>
+  <code><img height="30" src="Skills/XD.png"></code>
+  <code><img height="30" src="Skills/Figma.png"></code>
+  <code><img height="30" src="Skills/Github desktop.png"></code>
+  <code><img height="30" src="Skills/firebase.png"></code>
+  <code><img height="30" src="Skills/Proteus.png"></code>
 
 </div>
 
