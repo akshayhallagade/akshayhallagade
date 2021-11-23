@@ -20,11 +20,11 @@
 </a>
 
 <a href="https://github.com/likeitaash">
-  <img align="left" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111432.svg" draggable="false" />
+  <img align="left" width="30px" src="https://cdn.uconnectlabs.com/wp-content/uploads/sites/46/2019/04/GitHub-Mark.png" draggable="false" />
 </a>
 
 <a href="mailto:akshayhallagade2612@gmail.com">
-  <img align="left" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg" draggable="false" />
+  <img align="left" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-432TiQYC0uBfJf4dBsNuzL8KKAm1yYD-8WN23pjZtIRL_IN7ZAdz7e6RUuAOuSCog_8&usqp=CAU" draggable="false" />
 </a>
 
 <a href="https://www.facebook.com/hallagade/">
