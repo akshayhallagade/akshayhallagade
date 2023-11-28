@@ -4,12 +4,11 @@
   
 </p>
 
-##  Hello, I am Akshay Hallagade <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/wave.gif" width="40">
+## Hello, I am Akshay Hallagade <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/wave.gif" width="40">
 
 <br/>
 
 <div align="center">
-
 
 <a href="https://www.hackerrank.com/akshayhallagade1">
   <img align="left" width="30px" src="https://assets.brandfolder.com/y9ol94wb/v/331198/view@2x.png?v=1591971279" draggable="false" />
@@ -45,8 +44,8 @@
 
 ### Hey, My Current Ongoings. 👋
 
-- 🔭 I’m currently working on ...My Soft Skills.
-- 🌱 I’m currently learning ...Web dev, Flutter Development (Dart), UI/UX Designing.
+- 🔭 I’m currently working on Technical Knowledge + Learning Tools + Devel
+- 🌱 I’m currently learning ...Web dev (Scaler), Flutter Development (Dart), UI/UX Designing.
 - 👯 I’m looking to collaborate on ...Any one from Python Developer, Flutter Android App Developer or UI/UX designer.
 - 🤔 I’m looking for help with ...(Job as a Software Engineering/ Data Science / Android Development with Flutter.)
 - 💬 Ask me about ...Anything
@@ -62,13 +61,17 @@
 
 </div>
 
-### Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+### Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
 <div>
   
+  <code><img height="30" src="Skills/java.png"></code>
   <code><img height="30" src="Skills/python.png"></code>
   <code><img height="30" src="Skills/html.png"></code>
   <code><img height="30" src="Skills/css.png"></code>
+  <code><img height="30" src="Skills/javascript.png"></code>
+  <code><img height="30" src="Skills/mysql.png"></code>
+  <code><img height="30" src="Skills/react.png"></code>
   <code><img height="30" src="Skills/bootstrap.png"></code>
   <code><img height="30" src="Skills/wordpress.jfif"></code>
   <code><img height="30" src="Skills/VSCode.png"></code>
@@ -81,4 +84,3 @@
   <code><img height="30" src="Skills/Proteus.png"></code>
 
 </div>
-
