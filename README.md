@@ -57,7 +57,7 @@
 
 <div align="center">
   
-[![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=likeitaash)](https://github.com/anuraghazra/github-readme-stats)
+[![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=akshayhallagade)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
