@@ -46,8 +46,8 @@
 
 - 🔭 I’m currently working on Technical Knowledge + Learning Tools + Devel
 - 🌱 I’m currently learning ...Web dev (Scaler), Flutter Development (Dart), UI/UX Designing.
-- 👯 I’m looking to collaborate on ...Any one from Python Developer, Flutter Android App Developer or UI/UX designer.
-- 🤔 I’m looking for help with ...(Job as a Software Engineering/ Data Science / Android Development with Flutter.)
+- 👯 I’m looking to collaborate on ...Any one from Java,Python Developer, Flutter Android App Developer or UI/UX designer.
+- 🤔 I’m looking for help with ...(Job as a Software Engineering/ Android Development with Flutter / UI-UX.)
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...Contacts Given above. (Click on the logo)
 - 😄 Pronouns: ...Ash (Aksh with K-silent)
