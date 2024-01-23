@@ -63,7 +63,7 @@
 
 ### Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
-<div>
+<div align="center>
   
   <code><img height="30" src="images/skills/java.png"></code>
   <code><img height="30" src="images/skills/python.png"></code>
