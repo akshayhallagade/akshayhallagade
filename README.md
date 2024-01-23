@@ -96,6 +96,10 @@
 
 ## Cards
 
+<a href="https://github.com/akshayhallagade/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshayhallagade&repo=github-readme-stats" />
+</a>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
