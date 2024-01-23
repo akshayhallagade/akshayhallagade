@@ -57,7 +57,12 @@
 
 <div align="center">
   
-[![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=akshayhallagade)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/akshayhallagade/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=akshayhallagade&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/akshayhallagade/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshayhallagade&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 </div>
 
