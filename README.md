@@ -40,6 +40,17 @@
 
 </div>
 
+<div align="center">
+  
+<a href="https://github.com/akshayhallagade/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=akshayhallagade&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/akshayhallagade/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshayhallagade&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+</div>
+
 <br />
 
 ### Hey, My Current Ongoings. 👋
@@ -55,16 +66,17 @@
 
 <br/>
 
-<div align="center">
-  
-<a href="https://github.com/akshayhallagade/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=akshayhallagade&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/akshayhallagade/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshayhallagade&layout=compact&langs_count=8&card_width=320" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
