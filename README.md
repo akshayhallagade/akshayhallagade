@@ -40,9 +40,9 @@
 
 </div>
 
-## Stats
-
 <br />
+
+## Stats
 
 <div align="center">
   
@@ -69,6 +69,8 @@
 - ⚡ Fun fact: ...I don't have specs, even though continuous hours of sitting before my laptop.
 
 <br/>
+
+## Cards
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
