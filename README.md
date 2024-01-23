@@ -40,6 +40,8 @@
 
 </div>
 
+## Stats
+
 <br />
 
 <div align="center">
