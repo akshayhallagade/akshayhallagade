@@ -4,7 +4,7 @@
   
 </p>
 
-## Hello, I am Akshay Hallagade <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/wave.gif" width="40">
+## Hello, I am Akshay Hallagade <img src="images/wave.gif" width="40">
 
 <br/>
 
