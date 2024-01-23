@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img src="Skills/main.gif" alt="Coder GIF" width="500" height="400">
+  <img src="images/main.gif" alt="Coder GIF" width="500" height="400">
   
 </p>
 
@@ -31,7 +31,7 @@
 </a>
 
 <a href="https://www.instagram.com/akshay_hallagade/">
-  <img align="left"  width="40px" src="Skills/insta.png" draggable="false" />
+  <img align="left"  width="40px" src="images/social/insta.png" draggable="false" />
 </a>
 
 <a href="https://dev.to/likeitaash">
@@ -65,22 +65,22 @@
 
 <div>
   
-  <code><img height="30" src="Skills/java.png"></code>
-  <code><img height="30" src="Skills/python.png"></code>
-  <code><img height="30" src="Skills/html.png"></code>
-  <code><img height="30" src="Skills/css.png"></code>
-  <code><img height="30" src="Skills/javascript.png"></code>
-  <code><img height="30" src="Skills/mysql.png"></code>
-  <code><img height="30" src="Skills/react.png"></code>
-  <code><img height="30" src="Skills/bootstrap.png"></code>
-  <code><img height="30" src="Skills/wordpress.jfif"></code>
-  <code><img height="30" src="Skills/VSCode.png"></code>
-  <code><img height="30" src="Skills/flutter.png"></code>
-  <code><img height="30" src="Skills/dart.png"></code>
-  <code><img height="30" src="Skills/XD.png"></code>
-  <code><img height="30" src="Skills/Figma.png"></code>
-  <code><img height="30" src="Skills/Github desktop.png"></code>
-  <code><img height="30" src="Skills/firebase.png"></code>
-  <code><img height="30" src="Skills/Proteus.png"></code>
+  <code><img height="30" src="images/skills/java.png"></code>
+  <code><img height="30" src="images/skills/python.png"></code>
+  <code><img height="30" src="images/skills/html.png"></code>
+  <code><img height="30" src="images/skills/css.png"></code>
+  <code><img height="30" src="images/skills/javascript.png"></code>
+  <code><img height="30" src="images/skills/mysql.png"></code>
+  <code><img height="30" src="images/skills/react.png"></code>
+  <code><img height="30" src="images/skills/bootstrap.png"></code>
+  <code><img height="30" src="images/skills/wordpress.jfif"></code>
+  <code><img height="30" src="images/skills/VSCode.png"></code>
+  <code><img height="30" src="images/skills/flutter.png"></code>
+  <code><img height="30" src="images/skills/dart.png"></code>
+  <code><img height="30" src="images/skills/XD.png"></code>
+  <code><img height="30" src="images/skills/Figma.png"></code>
+  <code><img height="30" src="images/skills/Github desktop.png"></code>
+  <code><img height="30" src="images/skills/firebase.png"></code>
+  <code><img height="30" src="images/skills/Proteus.png"></code>
 
 </div>
