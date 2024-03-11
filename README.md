@@ -59,14 +59,13 @@
 
 ### Hey, My Current Ongoings. 👋
 
-- 🔭 I’m currently working on Technical Knowledge + Learning Tools + Devel
-- 🌱 I’m currently learning ...Web dev (Scaler), Flutter Development (Dart), UI/UX Designing.
-- 👯 I’m looking to collaborate on ...Any one from Java,Python Developer, Flutter Android App Developer or UI/UX designer.
-- 🤔 I’m looking for help with ...(Job as a Software Engineering/ Android Development with Flutter / UI-UX.)
+- 🔭 I’m currently working on Technical Knowledge + Learning Tools + Developement @scaler
+- 🌱 I’m currently learning ...Web dev (Scaler), React, DSA and HLD And LLD.
+- 👯 I’m looking to collaborate on ...Any one from Web development, HTML, CSS, JavaScript, React, Next.js, Tailwind.
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...Contacts Given above. (Click on the logo)
 - 😄 Pronouns: ...Ash (Aksh with K-silent)
-- ⚡ Fun fact: ...I don't have specs, even though continuous hours of sitting before my laptop.
+- ⚡ Fun fact: .... Obsessed with woorrrkkkaaa....
 
 <br/>
 
@@ -74,13 +73,13 @@
 
 <div align="center>
   
+  <code><img height="30" src="images/skills/react.png"></code>
+  <code><img height="30" src="images/skills/javascript.png"></code>
+  <code><img height="30" src="images/skills/html.png"></code>
+  <code><img height="30" src="images/skills/mysql.png"></code>
+  <code><img height="30" src="images/skills/css.png"></code>
   <code><img height="30" src="images/skills/java.png"></code>
   <code><img height="30" src="images/skills/python.png"></code>
-  <code><img height="30" src="images/skills/html.png"></code>
-  <code><img height="30" src="images/skills/css.png"></code>
-  <code><img height="30" src="images/skills/javascript.png"></code>
-  <code><img height="30" src="images/skills/mysql.png"></code>
-  <code><img height="30" src="images/skills/react.png"></code>
   <code><img height="30" src="images/skills/bootstrap.png"></code>
   <code><img height="30" src="images/skills/wordpress.jfif"></code>
   <code><img height="30" src="images/skills/VSCode.png"></code>
