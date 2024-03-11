@@ -75,9 +75,11 @@
   
   <code><img height="30" src="images/skills/react.png"></code>
   <code><img height="30" src="images/skills/javascript.png"></code>
+  <code><img height="30" src="images/skills/next-js.svg"></code>
+  <code><img height="30" src="images/skills/tailwind.webp"></code>
   <code><img height="30" src="images/skills/html.png"></code>
-  <code><img height="30" src="images/skills/mysql.png"></code>
   <code><img height="30" src="images/skills/css.png"></code>
+  <code><img height="30" src="images/skills/mysql.png"></code>
   <code><img height="30" src="images/skills/java.png"></code>
   <code><img height="30" src="images/skills/python.png"></code>
   <code><img height="30" src="images/skills/bootstrap.png"></code>
@@ -95,12 +97,11 @@
 
 ## Cards
 
+| <a href="https://github.com/akshayhallagade/akshayhallagade.github.io"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=akshayhallagade&repo=netflix-clone&theme=chartreuse-dark" /></a> | <a href="https://github.com/akshayhallagade/akshayhallagade.github.io"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=akshayhallagade&repo=personal-dashboard&theme=chartreuse-dark" /></a> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-|<a href="https://github.com/akshayhallagade/akshayhallagade.github.io"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=akshayhallagade&repo=netflix-clone&theme=chartreuse-dark" /></a>|<a href="https://github.com/akshayhallagade/akshayhallagade.github.io"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=akshayhallagade&repo=personal-dashboard&theme=chartreuse-dark" /></a>|
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://github.com/akshayhallagade/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=akshayhallagade&repo=todo_list_app&theme=chartreuse-dark"/></a> | <a href="https://github.com/akshayhallagade/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=akshayhallagade&repo=takeaway&theme=chartreuse-dark"/></a> |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-|<a href="https://github.com/akshayhallagade/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=akshayhallagade&repo=todo_list_app&theme=chartreuse-dark"/></a>|<a href="https://github.com/akshayhallagade/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=akshayhallagade&repo=takeaway&theme=chartreuse-dark"/></a>|
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-
-|<a href="https://github.com/akshayhallagade/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=akshayhallagade&repo=kanban_board&theme=chartreuse-dark"/></a>|<a href="https://github.com/akshayhallagade/akshayhallagade.github.io"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=akshayhallagade&repo=weather_app&theme=chartreuse-dark" /></a>|
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://github.com/akshayhallagade/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=akshayhallagade&repo=kanban_board&theme=chartreuse-dark"/></a> | <a href="https://github.com/akshayhallagade/akshayhallagade.github.io"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=akshayhallagade&repo=weather_app&theme=chartreuse-dark" /></a> |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
