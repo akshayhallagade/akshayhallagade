@@ -72,8 +72,8 @@
 ### Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
 <div align="center">
-  <code><img height="30" src="images/skills/express-js.png"></code>
   <code><img height="30" src="images/skills/react.png"></code>
+  <code><img height="30" src="images/skills/express-js.png"></code>
   <code><img height="30" src="images/skills/node.png"></code>
   <code><img height="30" src="images/skills/javascript.png"></code>
   <code><img height="30" src="images/skills/mongoDB.png"></code>
