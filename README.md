@@ -74,7 +74,10 @@
 <div align="center>
   
   <code><img height="30" src="images/skills/react.png"></code>
+  <code><img height="30" src="images/skills/express-js.png"></code>
+  <code><img height="30" src="images/skills/node.png"></code>
   <code><img height="30" src="images/skills/javascript.png"></code>
+  <code><img height="30" src="images/skills/mongoDB.png"></code>
   <code><img height="30" src="images/skills/next-js.svg"></code>
   <code><img height="30" src="images/skills/tailwind.webp"></code>
   <code><img height="30" src="images/skills/html.png"></code>
@@ -90,7 +93,6 @@
   <code><img height="30" src="images/skills/XD.png"></code>
   <code><img height="30" src="images/skills/Figma.png"></code>
   <code><img height="30" src="images/skills/Github desktop.png"></code>
-  <code><img height="30" src="images/skills/firebase.png"></code>
   <code><img height="30" src="images/skills/Proteus.png"></code>
 
 </div>
